@@ -5,7 +5,7 @@
 	$subject = htmlspecialchars(urldecode(trim($_POST['subject'])));
 	$user_message = htmlspecialchars(urldecode(trim($_POST['user_message'])));
 
-	if(mail("steterik@gmail.com",
+	if(mail("salyerik@gmail.com",
 					"New letter from Portfolio",
 					"Name: ".$user_name."\n".
 					"Mail: ".$user_mail."\n".

@@ -1,16 +1,15 @@
-# This is my portfolio site
-[Link to my portfolio⬅️][link]
+# This is my portfolio page
+
 ## I used here:
-* HTML (BEM, PUG)
-* CSS (SASS)
+* HTML (BEM)
+* CSS
 * Pure JavaScript:
 	* Animations
 	* Menu-burger
 	* Tabs
-* GULP
-* NPM
-* GIT
+	* Anchors
+	* Theme changing
 
 [Link to my portfolio⬅️][link]
 
-[link]: https://steterik.github.io/portfolio/
+[link]: https://salyerik.github.io/portfolio/
