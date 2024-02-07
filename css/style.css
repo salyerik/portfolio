@@ -805,13 +805,13 @@ body.light .menu__list {
 	}
 }
 @media (max-width: 768px) {
-	.block3__item.active .block3__link:first-child {
+	.block3__item .block3__link:first-child {
 		top: 0;
 	}
-	.block3__item.active .block3__link:last-child {
+	.block3__item .block3__link:last-child {
 		bottom: 0;
 	}
-	.block3__item.active img {
+	.block3__item img {
 		-webkit-transform: scale(1.1);
 		-ms-transform: scale(1.1);
 		transform: scale(1.1);
